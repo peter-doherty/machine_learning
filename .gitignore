@@ -97,3 +97,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+01-Regression/Time-series-multivariate/aircraft_engine/lstms_for_predictive_maintenance/
